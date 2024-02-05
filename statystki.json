@@ -1,0 +1,443 @@
+{
+    "0": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 4,
+        "date": "2023-01-19 15:04:04.674164",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "1": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 3,
+        "date": "2023-01-19 15:12:14.505610",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "2": {
+        "words": 3,
+        "characters": 14,
+        "errors": 1,
+        "time": 13,
+        "date": "2023-01-19 18:27:43.541467",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "3": {
+        "words": 3,
+        "characters": 28,
+        "errors": 1,
+        "time": 14,
+        "date": "2023-01-19 18:27:43.541467",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "4": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 4,
+        "date": "2023-01-19 18:41:02.403495",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "5": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 3,
+        "date": "2023-01-19 19:32:51.446765",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "6": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 3,
+        "date": "2023-01-19 19:34:37.394680",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "7": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 3,
+        "date": "2023-01-19 19:36:03.635360",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "8": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 3,
+        "date": "2023-01-19 19:37:52.729440",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "9": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 4,
+        "date": "2023-01-19 19:39:24.252994",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "10": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 2,
+        "date": "2023-01-19 19:40:22.972565",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "11": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 3,
+        "date": "2023-01-19 19:40:55.808067",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "12": {
+        "words": 3,
+        "characters": 9,
+        "errors": 0,
+        "time": 59,
+        "date": "2023-01-19 20:10:20.422385",
+        "file_path": "emptyfile.txt",
+        "game_mode": "unlimited_time"
+    },
+    "13": {
+        "words": 3,
+        "characters": 9,
+        "errors": 0,
+        "time": 59,
+        "date": "2023-01-19 20:10:20.422385",
+        "file_path": "emptyfile.txt",
+        "game_mode": "unlimited_time"
+    },
+    "14": {
+        "words": 3,
+        "characters": 9,
+        "errors": 0,
+        "time": 59,
+        "date": "2023-01-19 20:12:52.160083",
+        "file_path": "emptyfile.txt",
+        "game_mode": "unlimited_time"
+    },
+    "15": {
+        "words": 3,
+        "characters": 9,
+        "errors": 0,
+        "time": 59,
+        "date": "2023-01-19 20:12:52.160083",
+        "file_path": "emptyfile.txt",
+        "game_mode": "unlimited_time"
+    },
+    "16": {
+        "words": 3,
+        "characters": 9,
+        "errors": 0,
+        "time": 59,
+        "date": "2023-01-19 20:30:11.250004",
+        "file_path": "emptyfile.txt",
+        "game_mode": "unlimited_time"
+    },
+    "17": {
+        "words": 3,
+        "characters": 9,
+        "errors": 0,
+        "time": 59,
+        "date": "2023-01-19 20:30:11.250004",
+        "file_path": "emptyfile.txt",
+        "game_mode": "unlimited_time"
+    },
+    "18": {
+        "words": 3,
+        "characters": 16,
+        "errors": 3,
+        "time": 11,
+        "date": "2023-01-19 20:46:27.250896",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "19": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 3,
+        "date": "2023-01-19 20:47:31.120086",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "20": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 3,
+        "date": "2023-01-19 20:48:58.144704",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "21": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 3,
+        "date": "2023-01-19 20:49:48.117062",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "22": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 3,
+        "date": "2023-01-19 20:57:39.279134",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "23": {
+        "words": 3,
+        "characters": 20,
+        "errors": 1,
+        "time": 32,
+        "date": "2023-01-19 21:00:18.008760",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "24": {
+        "words": 3,
+        "characters": 22,
+        "errors": 2,
+        "time": 15,
+        "date": "2023-01-19 21:10:58.891102",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "25": {
+        "words": 3,
+        "characters": 9,
+        "errors": 0,
+        "time": 59,
+        "date": "2023-01-19 21:12:08.063516",
+        "file_path": "emptyfile.txt",
+        "game_mode": "unlimited_time"
+    },
+    "26": {
+        "words": 3,
+        "characters": 9,
+        "errors": 0,
+        "time": 59,
+        "date": "2023-01-19 21:12:08.063516",
+        "file_path": "emptyfile.txt",
+        "game_mode": "unlimited_time"
+    },
+    "27": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 3,
+        "date": "2023-01-19 21:42:46.604694",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "28": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 3,
+        "date": "2023-01-19 21:46:07.595678",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "29": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 3,
+        "date": "2023-01-19 21:58:39.069803",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "30": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 3,
+        "date": "2023-01-19 22:00:49.409911",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "31": {
+        "words": 15,
+        "characters": 54,
+        "errors": 0,
+        "time": 18,
+        "date": "2023-01-19 22:01:45.828945",
+        "file_path": "/home/oli/pipr/project/przykladowy_text.txt",
+        "game_mode": "unlimited_time"
+    },
+    "32": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 3,
+        "date": "2023-01-19 22:04:32.347690",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "33": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 3,
+        "date": "2023-01-19 22:05:51.981380",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "34": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 3,
+        "date": "2023-01-19 22:06:50.135780",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "35": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 2,
+        "date": "2023-01-19 22:07:39.313105",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "36": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 2,
+        "date": "2023-01-19 22:08:19.969371",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "37": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 2,
+        "date": "2023-01-19 22:10:42.810260",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "38": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 2,
+        "date": "2023-01-19 22:11:46.223800",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "39": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 3,
+        "date": "2023-01-19 22:23:07.910557",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "40": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 3,
+        "date": "2023-01-19 22:23:14.549833",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "41": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 3,
+        "date": "2023-01-19 22:23:21.711122",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "42": {
+        "words": 0,
+        "characters": 0,
+        "errors": 0,
+        "time": 59,
+        "date": "2023-01-19 22:32:49.581259",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "43": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 4,
+        "date": "2023-01-19 22:48:23.587536",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "44": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 7,
+        "date": "2023-01-19 22:52:42.709141",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "45": {
+        "words": 3,
+        "characters": 16,
+        "errors": 0,
+        "time": 21,
+        "date": "2023-01-19 22:54:36.835346",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "46": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 5,
+        "date": "2023-01-19 22:55:43.884317",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "47": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 3,
+        "date": "2023-01-19 22:57:45.473342",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    },
+    "48": {
+        "words": 3,
+        "characters": 12,
+        "errors": 0,
+        "time": 4,
+        "date": "2023-01-19 22:59:59.863653",
+        "file_path": "/home/oli/pipr/project/tojest.txt",
+        "game_mode": "unlimited_time"
+    }
+}
